@@ -1,0 +1,98 @@
+Welcome to Game of Tic-Tac-Toe
+Enter (1) for Single Player ... (0) for program to learn and evolve.. : Your opponent is this computer and it will make the first move..You will play next.. 
+**************************************
+ 
+	!	!	
+     1  !   2   !  3
+    =================
+	!	!	
+     4  !   5   !  6
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+Make your 1st Move...
+You can select any position from avilable slots  : 1 2 3 4 5 6 8 9  =>  
+	!	!	
+     1  !   2   !  3
+    =================
+	!	!	
+     4  !   O   !  6
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+ 
+	!	!	
+     X  !   2   !  3
+    =================
+	!	!	
+     4  !   O   !  6
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+Make your 2nd Move...
+You can select any position from avilable slots  : 2 3 4 6 8 9  =>  
+	!	!	
+     X  !   2   !  3
+    =================
+	!	!	
+     O  !   O   !  6
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+ 
+	!	!	
+     X  !   2   !  3
+    =================
+	!	!	
+     O  !   O   !  X
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+Make your 3rd Move...
+You can select any position from avilable slots  : 2 3 8 9  =>  
+	!	!	
+     X  !   O   !  3
+    =================
+	!	!	
+     O  !   O   !  X
+    =================
+	!	!	
+     X  !   8   !  9
+ 
+ 
+	!	!	
+     X  !   O   !  3
+    =================
+	!	!	
+     O  !   O   !  X
+    =================
+	!	!	
+     X  !   X   !  9
+ 
+Make your 4th and final Move...
+You can select any position from avilable slots  : 3 9  =>  
+	!	!	
+     X  !   O   !  O
+    =================
+	!	!	
+     O  !   O   !  X
+    =================
+	!	!	
+     X  !   X   !  9
+ 
+YOU LOOSE :( ...BETTER LUCK NEXT TIME... 
+Winning combination was : 7  8  9   
+	!	!	
+     X  !   O   !  O
+    =================
+	!	!	
+     O  !   O   !  X
+    =================
+	!	!	
+     X  !   X   !  X
+ 
